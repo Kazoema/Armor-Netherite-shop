@@ -1,0 +1,10 @@
+name: ArmorShop
+main: Zuma\Na
+version: 1.0
+api: 3.14.0
+description: PLUGINS Armor Netherite
+author: Kazuma
+
+commands:
+  as:
+    description: Netherite Armor
